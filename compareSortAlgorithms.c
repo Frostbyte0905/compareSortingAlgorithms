@@ -1,3 +1,5 @@
+//Danque, Ethan
+
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
